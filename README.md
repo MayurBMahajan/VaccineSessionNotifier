@@ -21,7 +21,13 @@ Enter the details described as below in the file userInput.py present in the sam
 * PASSWORD : Password generated from step 1
 * SLEEPER  : Script will sleep for given time (in seconds) before looking for another available session.
 
-#### Step 3) 
+#### Step 3)
+You should have python installed on your machine. You can download Python from https://www.python.org/downloads/
+Once downloaded, execute following commands
+* pip install requests
+* pip install fake-useragent
+
+#### Step 4) 
 On your terminal run: python cowinVaccineNotifier.py
 
 
